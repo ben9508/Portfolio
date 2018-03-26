@@ -1,6 +1,6 @@
 #my{
     margin-top: 150px;
-    color: steelblue;
+    color:  #FFA07A;
 }
 
 .navbar{
@@ -9,9 +9,17 @@
 }
 
 body{
- background: #000428;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #004e92, #000428);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #004e92, #000428); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background-color: #4682B4;
+background-size: cover;
+}
+
+.sec{
+	padding-left: 10em;
+	font-size: 25px;
+}
+
+header{
+	color: #DC143C;
 }
 
 
